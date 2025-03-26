@@ -2,5 +2,5 @@
   <h>
     My first computer
   </h>
-  <p>My computer is very efficient</p>
+  <p><b>My computer is very efficient</p>
 </html>
